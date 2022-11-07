@@ -1,5 +1,14 @@
-### Hi there 👋
-
+<h1 align="center">
+  Welcome to my repository 👋
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
+</div>
+<!-- <p align="center">
+  <a href="https://www.linkedin.com/in/binhnguyennguyen/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p> -->
 <!--
 **BabyfaceDeveloper/BabyfaceDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
