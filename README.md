@@ -9,7 +9,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Self-Taught Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Vietnam 🇻🇳.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Vietnam 🇻🇳.
 - 🔭 I’m currently working on side projects and exploring new technologies.
 - 🌱 I’m currently learning [Fastapi](https://fastapi.tiangolo.com/), [React](https://reactjs.org/), [Sveltekit](https://kit.svelte.dev/) and many more.
 - 👯 I’m looking to a job
