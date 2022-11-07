@@ -44,3 +44,13 @@ I am a Self-Taught Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabyfaceDeveloper&theme=transparent&show_icons=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BabyfaceDeveloper&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BabyfaceDeveloper)](https://github.com/anuraghazra/github-readme-stats)
