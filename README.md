@@ -16,3 +16,7 @@ I am a Self-Taught Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binhnguyennguyen/)
 - 😄 Pronouns: Nguyen
 - ⚡ Fun fact: Lazy, Like swimming, solve problems for fun
+<h3>
+  AND
+</h3>
+<img src="https://media.giphy.com/media/12BYUePgtn7sis/giphy.gif" width="400" height="400"/>
