@@ -12,7 +12,7 @@
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Vietnam 🇻🇳.
 - 🔭 I’m currently working on side projects and exploring new technologies.
 - 🌱 I’m currently learning [Fastapi](https://fastapi.tiangolo.com/), [React](https://reactjs.org/), [Sveltekit](https://kit.svelte.dev/) and many more.
-- 👯 I’m looking to a job
+- 👯 I’m looking for a job
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binhnguyennguyen/)
 - 😄 Pronouns: Nguyen (someone also called me Win, that's fine 😆)
 - ⚡ Fun fact: Lazy 😪, swimmer 🏊‍♂️, solve problems for fun 😆, explore the world ✈️
