@@ -14,6 +14,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🌱 I’m currently learning [Fastapi](https://fastapi.tiangolo.com/), [React](https://reactjs.org/), [Sveltekit](https://kit.svelte.dev/) and many more.
 - 👯 I’m looking for a job
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binhnguyennguyen/)
+- ☝️ [My Portfolio](https://babyfacedeveloper.github.io/Nguyen-Portfolio/)
 - 😄 Pronouns: Nguyen (someone also called me Win, that's fine 😆)
 - ⚡ Fun fact: Lazy 😪, swimmer 🏊‍♂️, lose weight 👟, solve problems for fun 😆, explore the world ✈️
 <h3>
