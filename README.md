@@ -1,8 +1,10 @@
 <h1 align="center">
+  Hello, My name is Nguyen
+  <br> 
   Welcome to my repository 👋
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/kAUtsLfsEfqaJRwe80/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
