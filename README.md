@@ -13,14 +13,21 @@
 
 Welcome again. My name is Nguyen and I am a self taught Developer <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="50"> from :vietnam:.
 - 🔭 I’m currently a ZTM student, working on side projects, and exploring new technologies.
-- 🌱 I’m currently learning [![Svelte][Svelte]][Svelte-url] [![Deno][Deno]][Deno-url] [![Asp.net core minimals][Asp.Net]][Asp.Net core minimals-url] [![Spring][Spring]][Spring cloud-url]
+- 🌱 I’m currently enjoy learning [![Svelte][Svelte]][Svelte-url] [![Deno][Deno]][Deno-url] [![Express.js][Express.js]][Express.js-url] [![Scikit-learn][Scikit-learn]][Scikit-learn-url] [![Tensorflow][Tensorflow]][Tensorflow-url]
+- 💗 My favourite technologies:
+  - `Front-end`: [![Svelte][Svelte]][Svelte-url]
+  - `Mobile`: [![Flutter][Flutter]][Flutter-url]
+  - `Back-end`: [![Deno][Deno]][Deno-url] [![Asp.net core minimals][Asp.Net]][Asp.Net core minimals-url] [![Spring Cloud][Spring]][Spring cloud-url] [![Express.js][Express.js]][Express.js-url]
+  - `Machine learning`: [![Python][Python]][Python-url] ![Microsoft Excel] [![Pandas][Pandas]][Pandas-url] [![Numpy][Numpy]][Numpy-url] [![Matplotlib][Matplotlib]][Matplotlib-url] [![Scikit-learn][Scikit-learn]][Scikit-learn-url] [![Tensorflow][Tensorflow]][Tensorflow-url] [![Keras][Keras]][Keras-url] [![PyTorch][PyTorch]][PyTorch-url]
+- 🔮 Technologies I will learn next:
+  -  
 - 👯 I’m looking for ... I don't know, may be a remote job (I like remote)
 - 📫 How to reach me: [![Linkedin][Linkedin]][Linkedin-url]
 - ☝️ [My Website](https://babyfacedeveloper.github.io/Nguyen-Portfolio/)
 - 😄 Pronouns: Nguyen
 - ⚡ Fun fact: Lazy 😪, swimmer 🏊‍♂️, lose weight 👟, have fun 😆, explore the world ✈️
 <h3>
-
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -68,3 +75,35 @@ Welcome again. My name is Nguyen and I am a self taught Developer <img src="http
 
 [Spring]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
 [Spring cloud-url]: https://spring.io/projects/spring-cloud
+
+[Flutter]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white
+[Flutter-url]: https://flutter.dev/
+  
+[Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
+[Express.js-url]: https://expressjs.com/
+
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-url]: https://www.python.org/downloads/
+
+[Pandas]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas-url]: https://pandas.pydata.org/
+
+[Matplotlib]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
+[Matplotlib-url]: https://matplotlib.org/
+
+[scikit-learn]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
+[scikit-learn-url]: https://scikit-learn.org/stable/
+
+[NumPy]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
+[NumPy-url]: https://numpy.org/
+
+[TensorFlow]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
+[TensorFlow-url]: https://www.tensorflow.org/
+
+[PyTorch]: https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white
+[PyTorch-url]: https://pytorch.org/
+
+[Keras]: https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white
+[Keras-url]: https://keras.io/
+
+[Microsoft Excel]: https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
