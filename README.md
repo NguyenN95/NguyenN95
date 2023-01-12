@@ -130,5 +130,3 @@ Welcome again. My name is Nguyen and I am a self taught Developer <img src="http
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BabyfaceDeveloper&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BabyfaceDeveloper&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
-
-[![BabyfaceDeveloper's wakatime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=BabyfaceDeveloper)](https://github.com/anuraghazra/github-readme-stats)
