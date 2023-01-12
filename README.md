@@ -67,17 +67,7 @@ Welcome again. My name is Nguyen and I am a self taught Developer <img src="http
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;  
 </div>
-
----
-
-### :fire: My Stats :
-
-![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabyfaceDeveloper&theme=transparent&show_icons=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BabyfaceDeveloper&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BabyfaceDeveloper)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 [Linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [Linkedin-url]: https://www.linkedin.com/in/binhnguyennguyen/
 
@@ -130,3 +120,14 @@ Welcome again. My name is Nguyen and I am a self taught Developer <img src="http
   
 [Rust]: https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white
 [Rust-url]: https://www.rust-lang.org/
+
+---
+
+### :fire: My Stats :
+
+![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabyfaceDeveloper&theme=transparent&show_icons=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BabyfaceDeveloper&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BabyfaceDeveloper)](https://github.com/anuraghazra/github-readme-stats)
+
