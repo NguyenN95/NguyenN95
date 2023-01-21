@@ -1,24 +1,48 @@
-<!--- <h1 align="center">
-  Hello, My name is Nguyen
-  <br> 
-  Welcome to my repository 👋
-</h1> --->
 <div align="center">
   <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
+### :fire: My Stats :
+
+![Nguyen's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BabyfaceDeveloper&theme=dracula&show_icons=true&hide=stars,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BabyfaceDeveloper&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BabyfaceDeveloper&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### :man_technologist: About Me :
 
-Welcome again. My name is Nguyen and I am a self taught Developer <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="50"> from :vietnam:.
+Welcome again. My name is Nguyen and I am a self-taught Developer <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="50">.
 - 🔭 I’m currently a ZTM student, working on side projects, and exploring new technologies.
-- 🌱 I’m currently enjoy learning [![Svelte][Svelte]][Svelte-url] [![Deno][Deno]][Deno-url] [![Express.js][Express.js]][Express.js-url] [![Scikit-learn][Scikit-learn]][Scikit-learn-url] [![Tensorflow][Tensorflow]][Tensorflow-url]
+- 🌱 I’m currently enjoy learning 
+  - [![Svelte][Svelte]][Svelte-url] 
+  - [![React][React]][React-url] 
+  - [![Deno][Deno]][Deno-url] 
+  - [![Express.js][Express.js]][Express.js-url] 
+  - [![Scikit-learn][Scikit-learn]][Scikit-learn-url] 
+  - [![Tensorflow][Tensorflow]][Tensorflow-url]
 - 💗 My favourite technologies:
   - `Front-end`: [![Svelte][Svelte]][Svelte-url]
   - `Mobile`: [![Flutter][Flutter]][Flutter-url]
-  - `Back-end`: [![Deno][Deno]][Deno-url] [![Asp.net core minimals][Asp.Net]][Asp.Net core minimals-url] [![Spring Cloud][Spring]][Spring cloud-url] [![Express.js][Express.js]][Express.js-url]
-  - `Machine learning`: [![Python][Python]][Python-url] ![Microsoft Excel] [![Pandas][Pandas]][Pandas-url] [![Numpy][Numpy]][Numpy-url] [![Matplotlib][Matplotlib]][Matplotlib-url] [![Scikit-learn][Scikit-learn]][Scikit-learn-url] [![Tensorflow][Tensorflow]][Tensorflow-url] [![Keras][Keras]][Keras-url] [![PyTorch][PyTorch]][PyTorch-url]
+  - `Back-end`: 
+    - [![Deno][Deno]][Deno-url] 
+    - [![Asp.net core minimals][Asp.Net]][Asp.Net core minimals-url] 
+    - [![Spring Cloud][Spring]][Spring cloud-url] 
+    - [![Express.js][Express.js]][Express.js-url]
+  - `Machine learning`: 
+    - [![Python][Python]][Python-url] 
+    - ![Microsoft Excel] 
+    - [![Pandas][Pandas]][Pandas-url] 
+    - [![Numpy][Numpy]][Numpy-url] 
+    - [![Matplotlib][Matplotlib]][Matplotlib-url] 
+    - [![Scikit-learn][Scikit-learn]][Scikit-learn-url] 
+    - [![Tensorflow][Tensorflow]][Tensorflow-url] 
+    - [![Keras][Keras]][Keras-url] 
+    - [![PyTorch][PyTorch]][PyTorch-url]
 - 🔮 My bookmark technologies:
   -  [![Flutter][Flutter]][Flutter-url]
   -  [![PyTorch][PyTorch]][PyTorch-url]
@@ -120,13 +144,6 @@ Welcome again. My name is Nguyen and I am a self taught Developer <img src="http
   
 [Rust]: https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white
 [Rust-url]: https://www.rust-lang.org/
-
----
-
-### :fire: My Stats :
-
-![Nguyen's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BabyfaceDeveloper&theme=dracula&show_icons=true&hide=stars,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BabyfaceDeveloper&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BabyfaceDeveloper&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+  
+[React]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[React-url]: https://reactjs.org/
