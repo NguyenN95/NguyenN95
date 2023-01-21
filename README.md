@@ -7,10 +7,9 @@
 ### :fire: My Stats :
 
 ![Nguyen's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BabyfaceDeveloper&theme=dracula&show_icons=true&hide=stars,issues)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BabyfaceDeveloper&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BabyfaceDeveloper&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BabyfaceDeveloper&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
