@@ -18,7 +18,6 @@ Welcome again. My name is Nguyen and I am a self-taught Developer <img src="http
 - 🔭 I’m currently a ZTM student, working on side projects, and exploring new technologies.
 - 🌱 I’m currently enjoy learning 
   - [![Svelte][Svelte]][Svelte-url] 
-  - [![React][React]][React-url] 
   - [![Deno][Deno]][Deno-url] 
   - [![Express.js][Express.js]][Express.js-url] 
   - [![Scikit-learn][Scikit-learn]][Scikit-learn-url] 
