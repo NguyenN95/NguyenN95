@@ -18,6 +18,10 @@ Welcome again. My name is Nguyen and I am a self-taught Developer <img src="http
 - 🔭 I’m currently a ZTM student, working on side projects, and exploring new technologies.
 - 👯 I’m looking for something make me excited
 - 📫 How to reach me: [![Linkedin][Linkedin]][Linkedin-url]
+- ☝️ My Websites:
+  - [Leet code](https://leetcode.com/NguyenN95/)
+  - [Kaggle](https://www.kaggle.com/nguyenn95)
+  - [Codingame](https://www.codingame.com/profile/9fba2a11f978e10d59525ac56cfb78c67943494)
 - 😄 Pronouns: [Nguyen](https://en.wiktionary.org/wiki/nguy%C3%AAn#Pronunciation)
 - ⚡ Fun fact: Lazy 😪, swimmer 🏊‍♂️, lose weight 👟, have fun 😆, explore the world ✈️
 <h3>
