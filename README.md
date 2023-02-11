@@ -58,57 +58,5 @@ Welcome again. My name is Nguyen and I am a self-taught Developer <img src="http
 </div>
   
 [Linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[Linkedin-url]: https://www.linkedin.com/in/binhnguyennguyen/
+[Linkedin-url]: https://www.linkedin.com/in/nguyenn95/
 
-[Svelte]: https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white
-[Svelte-url]: https://svelte.dev/
-
-[Deno]: https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white
-[Deno-url]: https://deno.land/
-
-[Asp.Net]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
-[Asp.Net core minimals-url]: https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis
-
-[Spring]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
-[Spring cloud-url]: https://spring.io/projects/spring-cloud
-
-[Flutter]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white
-[Flutter-url]: https://flutter.dev/
-  
-[Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
-[Express.js-url]: https://expressjs.com/
-
-[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[Python-url]: https://www.python.org/downloads/
-
-[Pandas]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
-[Pandas-url]: https://pandas.pydata.org/
-
-[Matplotlib]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
-[Matplotlib-url]: https://matplotlib.org/
-
-[scikit-learn]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
-[scikit-learn-url]: https://scikit-learn.org/stable/
-
-[NumPy]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
-[NumPy-url]: https://numpy.org/
-
-[TensorFlow]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
-[TensorFlow-url]: https://www.tensorflow.org/
-
-[PyTorch]: https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white
-[PyTorch-url]: https://pytorch.org/
-
-[Keras]: https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white
-[Keras-url]: https://keras.io/
-
-[Microsoft Excel]: https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
-  
-[Go]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
-[Go-url]: https://go.dev/
-  
-[Rust]: https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white
-[Rust-url]: https://www.rust-lang.org/
-  
-[React]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
-[React-url]: https://reactjs.org/
