@@ -16,41 +16,9 @@
 
 Welcome again. My name is Nguyen and I am a self-taught Developer <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="50">.
 - 🔭 I’m currently a ZTM student, working on side projects, and exploring new technologies.
-- 🌱 I’m currently enjoy learning 
-  - [![Svelte][Svelte]][Svelte-url] 
-  - [![Deno][Deno]][Deno-url] 
-  - [![Express.js][Express.js]][Express.js-url] 
-  - [![Scikit-learn][Scikit-learn]][Scikit-learn-url] 
-  - [![Tensorflow][Tensorflow]][Tensorflow-url]
-- 💗 My favourite technologies:
-  - `Front-end`: [![Svelte][Svelte]][Svelte-url]
-  - `Mobile`: [![Flutter][Flutter]][Flutter-url]
-  - `Back-end`: 
-    - [![Deno][Deno]][Deno-url] 
-    - [![Asp.net core minimals][Asp.Net]][Asp.Net core minimals-url] 
-    - [![Spring Cloud][Spring]][Spring cloud-url] 
-    - [![Express.js][Express.js]][Express.js-url]
-  - `Machine learning`: 
-    - [![Python][Python]][Python-url] 
-    - ![Microsoft Excel] 
-    - [![Pandas][Pandas]][Pandas-url] 
-    - [![Numpy][Numpy]][Numpy-url] 
-    - [![Matplotlib][Matplotlib]][Matplotlib-url] 
-    - [![Scikit-learn][Scikit-learn]][Scikit-learn-url] 
-    - [![Tensorflow][Tensorflow]][Tensorflow-url] 
-    - [![Keras][Keras]][Keras-url] 
-    - [![PyTorch][PyTorch]][PyTorch-url]
-- 🔮 My bookmark technologies:
-  -  [![Flutter][Flutter]][Flutter-url]
-  -  [![PyTorch][PyTorch]][PyTorch-url]
-  -  [![Asp.net core minimals][Asp.Net]][Asp.Net core minimals-url]
-  -  [![Spring Cloud][Spring]][Spring cloud-url]
-  -  [![Go (Golang)][Go]][Go-url]
-  -  [![Rust (Rustlang)][Rust]][Rust-url]
-- 👯 I’m looking for a remote job (I like remote)
+- 👯 I’m looking for something make me excited
 - 📫 How to reach me: [![Linkedin][Linkedin]][Linkedin-url]
-- ☝️ [My Website](https://babyfacedeveloper.github.io/Nguyen-Portfolio/)
-- 😄 Pronouns: Nguyen
+- 😄 Pronouns: [Nguyen](https://en.wiktionary.org/wiki/nguy%C3%AAn#Pronunciation)
 - ⚡ Fun fact: Lazy 😪, swimmer 🏊‍♂️, lose weight 👟, have fun 😆, explore the world ✈️
 <h3>
   
