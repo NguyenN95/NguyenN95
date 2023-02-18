@@ -22,6 +22,7 @@ Welcome again. My name is Nguyen and I am a self-taught Developer <img src="http
   - [Leet code](https://leetcode.com/NguyenN95/)
   - [Kaggle](https://www.kaggle.com/nguyenn95)
   - [Codingame](https://www.codingame.com/profile/9fba2a11f978e10d59525ac56cfb78c67943494)
+  - [Coursera](https://www.coursera.org/user/b6ff7ddb44e9690e6a785b64f260b4ab)
 - 😄 Pronouns: [Nguyen](https://en.wiktionary.org/wiki/nguy%C3%AAn#Pronunciation)
 - ⚡ Fun fact: Lazy 😪, swimmer 🏊‍♂️, lose weight 👟, have fun 😆, explore the world ✈️
 <h3>
