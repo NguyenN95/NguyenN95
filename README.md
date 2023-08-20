@@ -14,7 +14,7 @@
 
 ### :man_technologist: About Me :
 
-Welcome again. My name is Nguyen and I am a self-taught Developer <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="50">.
+My name is Nguyen and I am a self-taught Developer <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="50">.
 - 🔭 I’m currently a ZTM student.
 - 👯 I’m looking for something exciting.
 - 📫 How to reach me: [![Linkedin][Linkedin]][Linkedin-url]
