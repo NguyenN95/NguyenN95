@@ -27,7 +27,7 @@
 
 ### 🔠 I can speak :
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NguyenN95&hide=html,css,dockerfile,typescript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NguyenN95&hide=html,css,dockerfile,typescript)](https://github.com/NguyenN95?tab=repositories)
 
 ---
 
