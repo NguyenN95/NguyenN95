@@ -32,9 +32,16 @@
 
 ---
 
-### 🚀 Data Projects
+### 🔢 Data Projects
 
 [![Cyclistic Project](https://github-readme-stats.vercel.app/api/pin/?username=NguyenN95&repo=Cyclistic-Analysis)](https://github.com/NguyenN95/Cyclistic-Analysis)
+
+---
+
+### 🖥️ Software Projects
+
+[![Ecommerce Project](https://github-readme-stats.vercel.app/api/pin/?username=NguyenN95&repo=Ecommerce-Svelte)](https://github.com/NguyenN95/Ecommerce-Svelte)
+[![NASA Misssion Control Project](https://github-readme-stats.vercel.app/api/pin/?username=NguyenN95&repo=NASA-Misssion-Control)](https://github.com/NguyenN95/NASA-Misssion-Control)
 
 ---
 
