@@ -35,6 +35,12 @@
 
 [![Cyclistic Project](https://github-readme-stats.vercel.app/api/pin/?username=NguyenN95&repo=Cyclistic-Analysis)](https://github.com/NguyenN95/Cyclistic-Analysis)
 
+---
+
+### 🤣 Everyday I laugh >= 1
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
+
 <!--- - 📫 How to reach me: [![Linkedin][Linkedin]][Linkedin-url]
 - ☝️ My Websites:
   - [Leet code](https://leetcode.com/NguyenN95/)
