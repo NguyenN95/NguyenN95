@@ -22,6 +22,7 @@
 - 👨‍💻 Software Developer (Hobby)
 - 🏊‍♂️ Swimmer
 - 😪 Like sleeping zZz
+- 🐈 Cat lover
 
 ---
 
