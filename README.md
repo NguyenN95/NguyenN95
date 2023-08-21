@@ -33,7 +33,7 @@
 
 ### 🚀 Data Projects
 
-[![Cyclistic Project](https://github-readme-stats.vercel.app/api/pin/?username=NguyenN95&repo=Cyclistic-Analysis)](https://github.com/anuraghazra/github-readme-stats)
+[![Cyclistic Project](https://github-readme-stats.vercel.app/api/pin/?username=NguyenN95&repo=Cyclistic-Analysis)](https://github.com/NguyenN95/Cyclistic-Analysis)
 
 <!--- - 📫 How to reach me: [![Linkedin][Linkedin]][Linkedin-url]
 - ☝️ My Websites:
